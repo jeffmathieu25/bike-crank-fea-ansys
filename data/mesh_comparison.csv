@@ -1,0 +1,3 @@
+mesh,node_count,element_count,body_element_size_in,hole_element_size_in,max_total_displacement_in,max_normal_stress_x_psi,max_skewness,min_skewness,mean_skewness,elements_skewness_gt_0_5_pct
+Initial,14311,2756,0.15,0.08,0.042731,13990,0.625,0.007,0.173,0.44
+Refined,91107,19752,0.075,0.04,0.0422844,16738,0.569,0.0026,0.119,0.16
